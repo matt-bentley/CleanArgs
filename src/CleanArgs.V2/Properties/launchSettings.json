@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CleanArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "-b -s \"Hello World!\" -i 10"
+    }
+  }
+}
