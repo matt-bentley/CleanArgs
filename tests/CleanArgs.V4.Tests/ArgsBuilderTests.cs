@@ -1,7 +1,6 @@
 using CleanArgs.V4.Builders;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
 namespace CleanArgs.Tests
 {

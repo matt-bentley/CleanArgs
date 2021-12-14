@@ -1,8 +1,6 @@
 using CleanArgs.Exceptions;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
 
 namespace CleanArgs.Tests
 {

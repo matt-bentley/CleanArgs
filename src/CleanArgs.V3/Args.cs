@@ -1,9 +1,6 @@
 ﻿using CleanArgs.Exceptions;
 using CleanArgs.Interfaces.Marshalers;
 using CleanArgs.Marshalers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace CleanArgs
 {

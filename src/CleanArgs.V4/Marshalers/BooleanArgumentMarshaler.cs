@@ -1,5 +1,4 @@
 ﻿using CleanArgs.Marshalers.Abstract;
-using System.Collections.Generic;
 
 namespace CleanArgs.Marshalers
 {

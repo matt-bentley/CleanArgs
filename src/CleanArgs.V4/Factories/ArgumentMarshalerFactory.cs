@@ -1,7 +1,6 @@
 ﻿using CleanArgs.Interfaces.Factories;
 using CleanArgs.Interfaces.Marshalers;
 using CleanArgs.Marshalers;
-using System;
 using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("CleanArgs.V4.Tests")]

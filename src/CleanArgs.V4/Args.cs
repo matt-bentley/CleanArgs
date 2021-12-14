@@ -1,9 +1,6 @@
 ﻿using CleanArgs.Exceptions;
 using CleanArgs.Interfaces.Factories;
 using CleanArgs.Interfaces.Marshalers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("CleanArgs.V4.Tests")]

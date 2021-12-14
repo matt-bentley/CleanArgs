@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CleanArgs.Exceptions
+﻿namespace CleanArgs.Exceptions
 {
     public class ArgsParseException : Exception
     {

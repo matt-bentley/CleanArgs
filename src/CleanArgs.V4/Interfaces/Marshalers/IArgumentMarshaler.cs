@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace CleanArgs.Interfaces.Marshalers
+﻿namespace CleanArgs.Interfaces.Marshalers
 {
     public interface IArgumentMarshaler<T> : IArgumentMarshaler
     {
